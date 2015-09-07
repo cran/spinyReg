@@ -1,0 +1,8 @@
+57bdecaab82cf81949b28c9fa48327c3 *DESCRIPTION
+9be902ec800d0048a5214f12a5b1dc07 *NAMESPACE
+1f276aef54e9ca84d90a1e60642ddaa8 *R/spinyReg-class.R
+032f149ac31a3a649fcd942206cf0aee *R/spinyReg.R
+f4e9edcf3297bf2e550f9e64d4e3475c *inst/tests/prostate.rda
+1a80a6f62c8e16c80a24e8247544ebdd *inst/tests/test_simple_run.R
+6331eb170adbff70cb1e63d7a4104a1d *man/spinyReg.Rd
+c634fdf77dfea71549cb599ed32d8dbe *man/spinyreg-class.Rd
